@@ -21,37 +21,37 @@
     
     
         <definition name="success" extends="defaultTemplate">  
-        <put-attribute name="title" value="GalaxE Solutions Pvt. Ltd." />
+        <put-attribute name="title" value="capgemini india Pvt. Ltd." />
         <put-attribute name="body" value="/WEB-INF/views/success.jsp" />  
     </definition> 
     
     <definition name="register" extends="normal">  
-        <put-attribute name="title" value="GalaxE Solutions Pvt. Ltd." />
+        <put-attribute name="title" value="capgemini india Pvt. Ltd." />
         <put-attribute name="body" value="/WEB-INF/views/register.jsp" />  
     </definition>   
     
     <definition name="newuser" extends="normal">  
-        <put-attribute name="title" value="GalaxE Solutions Pvt. Ltd." />
+        <put-attribute name="title" value="capgemini india Pvt. Ltd." />
         <put-attribute name="body" value="/WEB-INF/views/newuser.jsp" />  
     </definition>  
     
     <definition name="successnewuser" extends="normal">  
-        <put-attribute name="title" value="GalaxE Solutions Pvt. Ltd." />
+        <put-attribute name="title" value="capgemini india Pvt. Ltd." />
         <put-attribute name="body" value="/WEB-INF/views/successnewuser.jsp" />  
     </definition> 
     
     <definition name="error" extends="normal">  
-        <put-attribute name="title" value="GalaxE Solutions Pvt. Ltd." />
+        <put-attribute name="title" value="capgemini india Pvt. Ltd." />
         <put-attribute name="body" value="/WEB-INF/views/error.jsp" />  
     </definition>  
   
     <definition name="login" extends="normal">  
-        <put-attribute name="title" value="GalaxE Solutions Pvt. Ltd." />
+        <put-attribute name="title" value="capgemini india Pvt. Ltd." />
         <put-attribute name="body" value="/WEB-INF/views/login.jsp" />  
     </definition>  
     
     <definition name="show" extends="normal">  
-        <put-attribute name="title" value="GalaxE Solutions Pvt. Ltd." />
+        <put-attribute name="title" value="capgemini india Pvt. Ltd." />
         <put-attribute name="body" value="/WEB-INF/views/show.jsp" />  
     </definition>  
 </tiles-definitions> 
